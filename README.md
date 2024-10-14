@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning "🌐 Aspiring Web Developer | 📱 Learning Mobile Development | 🎮 Exploring Game Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rjj10189@gmail.com
-- 😄 Pronouns: 
 - ⚡ Fun fact: I developed a mobile eCommerce app using Android Studio!"
 
 <!---
